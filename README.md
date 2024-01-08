@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srujanashivareddy
 - 👀 I’m interested in .IT field,fullstack development 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my skills
+- 💞️ I’m looking to collaborate in Linkedin , Noukri.com
 
 
 
